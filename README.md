@@ -3,10 +3,7 @@
 
 🥰 I’m currently learning graph algorithms
 
-## My Codeforces Stats
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=aminealist&theme=1)
 
-Get your Codeforces Stats Card: [GitHub Readme Codeforces Stats](https://github.com/aminealist/github-readme-codeforces-stats)
 <!--
 **aminealist/aminealist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
