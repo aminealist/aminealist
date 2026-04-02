@@ -3,7 +3,7 @@
 
 🥰 I’m currently learning graph algorithms and segment tree
 
-🔐 I’m contributing to: [MatrixScheduling](https://github.com/vladhark/MatrixScheduling) (private repository)
+🔐 I’m currently working on: [MatrixScheduling](https://github.com/vladhark/MatrixScheduling) (private repository)
 
 <!--
 **aminealist/aminealist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
